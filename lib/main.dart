@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:foot/screen/mi_home_page.dart';
+import 'package:foot/screen/inicio.dart';
 
 void main() {
   runApp(const MyApp());
@@ -14,7 +14,7 @@ class MyApp extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       title: 'Flutter Demo',
 
-      home: const MiHomePage(),
+      home:  Inicio(),
     );
   }
 }
