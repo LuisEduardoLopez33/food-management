@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:foot/screen/inicio.dart';
 
+
 void main() {
   runApp(const MyApp());
 }
